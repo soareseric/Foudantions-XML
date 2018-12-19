@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pessoas>
+  <pessoa dataNascimento="1874-11-30" dataMorte="1965-01-24">
+    <nome>Winston Churchill</nome>
+    <descricao> 
+      Winston Churchill era um político britânico do século 20, que se tornou famoso como o primeiro-ministro durante a Segunda Guerra Mundial. 
+    </descricao>
+  </pessoa>
+  <pessoa dataNascimento="1917-11-19" dataMorte="1984-10-31">
+    <nome>Indira Gandhi</nome>
+    <descricao> 
+Indira Gandhi foi a primeira mulher a ocupar o cargo de chefe de governo indiano como primeira-ministra e foi assassinada em 1984. 
+    </descricao>
+  </pessoa>
+  <pessoa dataNascimento="1917-05-29" dataMorte="1917-05-29">
+    <nome>John F. Kennedy</nome>
+    <descricao> 
+      JFK, como era carinhosamente conhecido, foi um presidente dos Estados Unidos, que foi assassinado em Dallas, no estado do Texas, EUA. 
+    </descricao>
+  </pessoa>
+</pessoas>
