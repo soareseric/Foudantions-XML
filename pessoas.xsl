@@ -6,8 +6,10 @@
                 <!-- HERE WE USE THE METHOD APPLY-TEMPLATES FOR WE CAN GET SOME INFOMRATICA THAT WE WANT INSIDE THE PESSOAS-->
                 <!-- <xsl:apply-templates select="pessoas/pessoa" /> -->
                 <!-- HERE INSTEAD WE USE APPLY-TEMPLATE WE USED FOR EACH, THE TWO METHODS DO THE SAMETHING -->
-                <xsl:for-each select="pesoas/pessoa">
-                    <xsl:value-of select="nome" />
+                <xsl:for-each select="pessoas/pessoa">
+                    <xsl:value-of select="nome" /> |
+                    <xsl:value-of select="@dataNascimento" />
+                    <br />
                 </xsl:for-each>
             
             </body>                     
