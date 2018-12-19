@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl"  href="pessoas.xsl"?>
 <pessoas>
   <pessoa dataNascimento="1874-11-30" dataMorte="1965-01-24">
     <nome>Winston Churchill</nome>
