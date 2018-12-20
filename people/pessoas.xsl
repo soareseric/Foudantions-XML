@@ -17,8 +17,8 @@
                         </xsl:catch>
 
                         <xsl:catch>
-                            <xsl:message>Ocorreu um erro: <xsl:value-of select="$err:code" />
-                            
+                            <xsl:message>Houve um erro: <xsl:value-of select="$err:code" />
+
                                 <xsl:value-of select="$err:description" />
                             </xsl:message>
                         </xsl:catch>
