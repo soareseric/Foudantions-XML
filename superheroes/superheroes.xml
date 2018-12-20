@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map xmlns="http://www.w3.org/2005/xpath-functions">
+   <string key="squadName">Super hero squad</string>
+   <string key="homeTown">Metro City</string>
+   <number key="formed">2016</number>
+   <string key="secretBase">Super tower</string>
+   <boolean key="active">true</boolean>
+   <array key="members">
+      <map>
+         <string key="name">Molecule Man</string>
+         <number key="age">29</number>
+         <string key="secretIdentity">Dan Jukes</string>
+         <array key="powers">
+            <string>Radiation resistance</string>
+            <string>Turning tiny</string>
+            <string>Radiation blast</string>
+         </array>
+      </map>
+      <map>
+         <string key="name">Madame Uppercut</string>
+         <number key="age">39</number>
+         <string key="secretIdentity">Jane Wilson</string>
+         <array key="powers">
+            <string>Million tonne punch</string>
+            <string>Damage resistance</string>
+            <string>Superhuman reflexes</string>
+         </array>
+      </map>
+      <map>
+         <string key="name">Eternal Flame</string>
+         <number key="age">1000000</number>
+         <string key="secretIdentity">Unknown</string>
+         <array key="powers">
+            <string>Immortality</string>
+            <string>Heat Immunity</string>
+            <string>Inferno</string>
+            <string>Teleportation</string>
+            <string>Interdimensional travel</string>
+         </array>
+      </map>
+   </array>
+</map>
