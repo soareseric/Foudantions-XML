@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<catalogo> 
+  <cd 
+    titulo="Empire Burlesque" 
+    artista=" Bob Dylan" 
+    pais="USA" 
+    companhia="Columbia" 
+    preco="10.90" 
+    ano="1985" 
+  /> 
+  <cd 
+    titulo="Hide your heart" 
+    artista=" Bonnie Tyler" 
+    pais="UK" 
+    companhia="CBS Records" 
+    preco="9.90" 
+    ano="1988" 
+  /> 
+  <cd 
+    titulo="Greatest Hits" 
+    artista=" Dolly Parton" 
+    pais="USA" 
+    companhia="RCA" 
+    preco="9.90" 
+    ano="1982" 
+  /> 
+  <cd 
+    titulo="Still got the blues" 
+    artista=" Gary Moore" 
+    pais="UK" 
+    companhia="Virgin records" 
+    preco="10.20" 
+    ano="1990" 
+  /> 
+  <cd 
+    titulo="Eros" 
+    artista=" Eros Ramazzotti" 
+    pais="EU" 
+    companhia="BMG" 
+    preco="9.90" 
+    ano="1997" 
+  /> 
+  <cd 
+    titulo="One night only" 
+    artista=" Bee Gees" 
+    pais="UK" 
+    companhia="Polydor" 
+    preco="10.90" 
+    ano="1998" 
+  /> 
+  <cd 
+    titulo="Sylvias Mother" 
+    artista=" Dr.Hook" 
+    pais="UK" 
+    companhia="CBS" 
+    preco="8.10" 
+    ano="1973" 
+  /> 
+  <cd 
+    titulo="Maggie May" 
+    artista=" Rod Stewart" 
+    pais="UK" 
+    companhia="Pickwick" 
+    preco="8.50" 
+    ano="1990" 
+  /> 
+  <cd 
+    titulo="Romanza" 
+    artista=" Andrea Bocelli" 
+    pais="EU" 
+    companhia="Polydor" 
+    preco="10.80" 
+    ano="1996" 
+  /> 
+  <cd 
+    titulo="When a man loves a woman" 
+    artista=" Percy Sledge" 
+    pais="USA" 
+    companhia="Atlantic" 
+    preco="8.70" 
+    ano="1987" 
+  /> 
+  <cd 
+    titulo="Black angel" 
+    artista=" Savage Rose" 
+    pais="EU" 
+    companhia="Mega" 
+    preco="10.90" 
+    ano="1995" 
+  /> 
+  <cd 
+    titulo="1999 Grammy Nominees" 
+    artista=" Many" 
+    pais="USA" 
+    companhia="Grammy" 
+    preco="10.20" 
+    ano="1999" 
+  /> 
+  <cd 
+    titulo="For the good times" 
+    artista=" Kenny Rogers" 
+    pais="UK" 
+    companhia="Mucik Master" 
+    preco="8.70" 
+    ano="1995" 
+  /> 
+  <cd 
+    titulo="Big Willie style" 
+    artista=" Will Smith" 
+    pais="USA" 
+    companhia="Columbia" 
+    preco="9.90" 
+    ano="1997" 
+  /> 
+  <cd 
+    titulo="Tupelo Honey" 
+    artista=" Van Morrison" 
+    pais="UK" 
+    companhia="Polydor" 
+    preco="8.20" 
+    ano="1971" 
+  /> 
+  <cd 
+    titulo="Soulsville" 
+    artista=" Jorn Hoel" 
+    pais="Norway" 
+    companhia="WEA" 
+    preco="7.90" 
+    ano="1996" 
+  /> 
+  <cd 
+    titulo="The very best of" 
+    artista=" Cat Stevens" 
+    pais="UK" 
+    companhia="Island" 
+    preco="8.90" 
+    ano="1990" 
+  /> 
+  <cd 
+    titulo="Stop" 
+    artista=" Sam Brown" 
+    pais="UK" 
+    companhia="A and M" 
+    preco="8.90" 
+    ano="1988" 
+  /> 
+  <cd 
+    titulo="Bridge of Spies" 
+    artista=" T'Pau" 
+    pais="UK" 
+    companhia="Siren" 
+    preco="7.90" 
+    ano="1987" 
+  /> 
+  <cd 
+    titulo="Private Dancer" 
+    artista=" Tina Turner" 
+    pais="UK" 
+    companhia="Capitol" 
+    preco="8.90" 
+    ano="1983" 
+  /> 
+  <cd 
+    titulo="Midt om natten" 
+    artista=" Kim Larsen" 
+    pais="EU" 
+    companhia="Medley" 
+    preco="7.80" 
+    ano="1983" 
+  /> 
+  <cd 
+    titulo="Pavarotti Gala Concert" 
+    artista=" Luciano Pavarotti" 
+    pais="UK" 
+    companhia="DECCA" 
+    preco="9.90" 
+    ano="1991" 
+  /> 
+  <cd 
+    titulo="The dock of the bay" 
+    artista=" Otis Redding" 
+    pais="USA" 
+    companhia="Atlantic" 
+    preco="7.90" 
+    ano="1987" 
+  /> 
+  <cd 
+    titulo="Picture book" 
+    artista=" Simply Red" 
+    pais="EU" 
+    companhia="Elektra" 
+    preco="7.20" 
+    ano="1985" 
+  /> 
+  <cd 
+    titulo="Red" 
+    artista=" The Communards" 
+    pais="UK" 
+    companhia="London" 
+    preco="7.80" 
+    ano="1987" 
+  /> 
+  <cd 
+    titulo="Unchain my heart" 
+    artista=" Joe Cocker" 
+    pais="USA" 
+    companhia="EMI" 
+    preco="8.20" 
+    ano="1987" 
+  /> 
+</catalogo>

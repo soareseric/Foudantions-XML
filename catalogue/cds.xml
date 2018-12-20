@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cds>
+   <pais nome="EU">
+      <cd>
+         <titulo>Eros</titulo>
+         <artista> Eros Ramazzotti</artista>
+         <ano>1997</ano>
+      </cd>
+      <cd>
+         <titulo>Romanza</titulo>
+         <artista> Andrea Bocelli</artista>
+         <ano>1996</ano>
+      </cd>
+      <cd>
+         <titulo>Black angel</titulo>
+         <artista> Savage Rose</artista>
+         <ano>1995</ano>
+      </cd>
+      <cd>
+         <titulo>Midt om natten</titulo>
+         <artista> Kim Larsen</artista>
+         <ano>1983</ano>
+      </cd>
+      <cd>
+         <titulo>Picture book</titulo>
+         <artista> Simply Red</artista>
+         <ano>1985</ano>
+      </cd>
+   </pais>
+   <pais nome="Norway">
+      <cd>
+         <titulo>Soulsville</titulo>
+         <artista> Jorn Hoel</artista>
+         <ano>1996</ano>
+      </cd>
+   </pais>
+   <pais nome="UK">
+      <cd>
+         <titulo>Hide your heart</titulo>
+         <artista> Bonnie Tyler</artista>
+         <ano>1988</ano>
+      </cd>
+      <cd>
+         <titulo>Still got the blues</titulo>
+         <artista> Gary Moore</artista>
+         <ano>1990</ano>
+      </cd>
+      <cd>
+         <titulo>One night only</titulo>
+         <artista> Bee Gees</artista>
+         <ano>1998</ano>
+      </cd>
+      <cd>
+         <titulo>Sylvias Mother</titulo>
+         <artista> Dr.Hook</artista>
+         <ano>1973</ano>
+      </cd>
+      <cd>
+         <titulo>Maggie May</titulo>
+         <artista> Rod Stewart</artista>
+         <ano>1990</ano>
+      </cd>
+      <cd>
+         <titulo>For the good times</titulo>
+         <artista> Kenny Rogers</artista>
+         <ano>1995</ano>
+      </cd>
+      <cd>
+         <titulo>Tupelo Honey</titulo>
+         <artista> Van Morrison</artista>
+         <ano>1971</ano>
+      </cd>
+      <cd>
+         <titulo>The very best of</titulo>
+         <artista> Cat Stevens</artista>
+         <ano>1990</ano>
+      </cd>
+      <cd>
+         <titulo>Stop</titulo>
+         <artista> Sam Brown</artista>
+         <ano>1988</ano>
+      </cd>
+      <cd>
+         <titulo>Bridge of Spies</titulo>
+         <artista> T'Pau</artista>
+         <ano>1987</ano>
+      </cd>
+      <cd>
+         <titulo>Private Dancer</titulo>
+         <artista> Tina Turner</artista>
+         <ano>1983</ano>
+      </cd>
+      <cd>
+         <titulo>Pavarotti Gala Concert</titulo>
+         <artista> Luciano Pavarotti</artista>
+         <ano>1991</ano>
+      </cd>
+      <cd>
+         <titulo>Red</titulo>
+         <artista> The Communards</artista>
+         <ano>1987</ano>
+      </cd>
+   </pais>
+   <pais nome="USA">
+      <cd>
+         <titulo>Empire Burlesque</titulo>
+         <artista> Bob Dylan</artista>
+         <ano>1985</ano>
+      </cd>
+      <cd>
+         <titulo>Greatest Hits</titulo>
+         <artista> Dolly Parton</artista>
+         <ano>1982</ano>
+      </cd>
+      <cd>
+         <titulo>When a man loves a woman</titulo>
+         <artista> Percy Sledge</artista>
+         <ano>1987</ano>
+      </cd>
+      <cd>
+         <titulo>1999 Grammy Nominees</titulo>
+         <artista> Many</artista>
+         <ano>1999</ano>
+      </cd>
+      <cd>
+         <titulo>Big Willie style</titulo>
+         <artista> Will Smith</artista>
+         <ano>1997</ano>
+      </cd>
+      <cd>
+         <titulo>The dock of the bay</titulo>
+         <artista> Otis Redding</artista>
+         <ano>1987</ano>
+      </cd>
+      <cd>
+         <titulo>Unchain my heart</titulo>
+         <artista> Joe Cocker</artista>
+         <ano>1987</ano>
+      </cd>
+   </pais>
+</cds>
