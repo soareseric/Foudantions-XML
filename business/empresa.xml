@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<empresa>
+    <funcionarios>
+        <funcionario>
+            <nome>Carlos Santos</nome>
+            <cargo>Gerente de produção</cargo>
+            <idade>45</idade>
+            <salario>5000</salario>
+        </funcionario>
+        <funcionario>
+            <nome>Felipe Silva</nome>
+            <cargo>Auxiliar de produção</cargo>
+            <data-nascimento>1973-09-03</data-nascimento>
+            <salario>1200</salario>
+        </funcionario>
+        <funcionario>
+            <nome>Maria Ferrira</nome>
+            <cargo>Engenheira de produção</cargo>
+            <idade>37</idade>
+            <salario>6730</salario>
+        </funcionario>
+        <funcionario>
+            <nome>Roberto Carlos Perreira</nome>
+            <cargo>Auxiliar de produção</cargo>
+            <data-nascimento>1977-10-15</data-nascimento>
+            <salario>1200</salario>
+        </funcionario>
+        <funcionario>
+            <nome>Amanda Nogueira</nome>
+            <cargo>Auxiliar de produção</cargo>
+            <idade>39</idade>
+            <salario>1200</salario>
+        </funcionario>
+    </funcionarios>
+</empresa>
