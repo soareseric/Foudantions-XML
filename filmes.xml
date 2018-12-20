@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<filmes>
+  <filme id="123" idioma="PT-BR">
+    <titulo>Tropa de Elite</titulo>
+    <ano>2007</ano>
+    <diretor>José Padilha</diretor>
+  </filme>
+  <filme id="456" idioma="EN">
+    <titulo>Interview with the Vampire: The Vampire Chronicles</titulo>
+    <ano>1994</ano>
+    <diretor>Neil Jordan</diretor>
+  </filme>
+  <filme id="789" idioma="EN">
+    <titulo>The Lord of the Rings: The Fellowship of the Ring</titulo>
+    <ano>2001</ano>
+    <diretor>Peter Jackson</diretor>
+  </filme>
+  <filme id="101" idioma="EN">
+    <titulo>Harry Potter and the Sorcerer's Stone</titulo>
+    <ano>2001</ano>
+    <diretor>Chris Columbus</diretor>
+  </filme>
+  <filme id="112" idioma="PT-BR">
+    <titulo>Capitães de Areia</titulo>
+    <ano>2011</ano>
+    <diretor>Cecília Amado</diretor>
+  </filme>
+  <filme id="133" idioma="PT-BR">
+    <titulo>Soundtrack</titulo>
+    <ano>2000</ano>
+  </filme>
+</filmes>

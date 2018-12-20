@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<livros>
+  <livro id="123" idioma="PT-BR">
+    <titulo>Tropa de Elite</titulo>
+    <ano>2006</ano>
+    <autor>André Batista e Rodrigo Pimentel</autor>
+  </livro>
+  <livro id="456" idioma="EN">
+    <titulo>Entrevista com o vampiro</titulo>
+    <ano>1976</ano>
+    <autor>Anne Rice</autor>
+  </livro>
+  <livro id="789" idioma="EN">
+    <titulo>O Senhor dos Anéis: A sociedade do Anel</titulo>
+    <ano>1954</ano>
+    <autor>. R. R. Tolkien</autor>
+  </livro>
+  <livro id="101" idioma="EN">
+    <titulo>Harry Potter e a Pedra Filosofal</titulo>
+    <ano>1997</ano>
+    <autor>J. K. Rowling</autor>
+  </livro>
+  <livro id="112" idioma="PT-BR">
+    <titulo>Capitães de Areia</titulo>
+    <ano>1937</ano>
+    <autor>Jorge Amado</autor>
+  </livro>
+</livros>
