@@ -19,4 +19,10 @@ Indira Gandhi foi a primeira mulher a ocupar o cargo de chefe de governo indiano
       JFK, como era carinhosamente conhecido, foi um presidente dos Estados Unidos, que foi assassinado em Dallas, no estado do Texas, EUA. 
     </descricao>
   </pessoa>
+  <pessoa dataNascimento="" dataMorte="-">
+    <nome>Marcos Pontes</nome>
+    <descricao> 
+        Foi o primeiro astronauta brasileiro.
+    </descricao>
+  </pessoa>
 </pessoas>
